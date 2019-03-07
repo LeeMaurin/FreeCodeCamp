@@ -1,0 +1,61 @@
+/* styling of the page background */
+.container {
+  margin-top: 50px;
+  background-color: tan;
+  border-radius: 25px;
+  border-style: groove;
+}
+/*  style of the the page headline */
+h1 {
+  text-align: center;
+  font-size: 4em;
+  font-weight: bold;
+}
+/* styling of the headline tagline */
+h2 {
+  text-align: center;
+  font-style: italic;
+}
+/* styling of all paragraphs */
+p {
+  font-size: 1.5em;
+  padding-left: 4em;
+  padding-right: 4em;
+  padding-top: 1em;
+}
+/* class created to center the footer prose */
+.centered {
+  text-align: center;
+}
+/* styling Captain Coram life events */
+ul li {
+  font-size: 1.3em;
+  line-height: 1.4em;
+  margin-left: 4em;
+  margin-right: 4.5em;
+  padding-bottom: 1em;
+}
+/* styling of Captain Corams's image */
+img {
+  display: block;
+  margin: 30px auto;
+  width: 70%;
+}
+/* styling of the only blockquote */
+blockquote {
+  margin-left: 5em;
+  margin-right: 5em;
+  font-size: 1.4em;
+}
+
+#img-caption {
+  text-align: center;
+  font-size: 1.7em;
+  color: brown;
+}
+
+#image {
+  max-width: 100%;
+  display: block;
+  height: auto;
+}
