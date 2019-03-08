@@ -1,0 +1,101 @@
+body {
+  background-color: lightgreen;
+  width: 80%;
+}
+
+form {
+  background-color: white;
+  width: 80%;
+  margin: auto;
+  border-radius: 15px;
+  border: 3px solid black;
+}
+
+h1 {
+  text-align: center;
+  margin: 0 auto;
+}
+
+#description {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.left-side {
+  width: 48%;
+  text-align: right;
+}
+
+.right-side {
+  width: 48%;
+  margin-top: 10px;
+  text-align: left;
+  vertical-align: middle;
+}
+
+.labels {
+  display: inline-block;
+  text-align: right;
+  width: 48%;
+  padding: 5px;
+  vertical-align: none;
+  margin-top: 10px;
+}
+
+.labels2 {
+  display: inline-block;
+  text-align: right;
+  width: 48%;
+  padding: 5px;
+  vertical-align: top;
+  margin-top: 10px;
+}
+
+.rightSide {
+  display: inline-block;
+  text-align: left;
+  width: 48%;
+  vertical-align: none;
+  margin-top: 20px;
+}
+
+.red {
+  color: red;
+}
+
+button {
+  background-color: green;
+  height: 45px;
+  width: 100px;
+  font-size: 1.3em;
+  border-radius: 15px;
+  display: block;
+  margin: 30px auto;
+}
+
+#footerParagraph {
+  margin-left: 10%;
+}
+
+.input-field {
+  height: 25px;
+  width: 280px;
+  padding: 5px;
+  margin: 10px;
+  border: 1px solid #c0c0c0;
+  border-radius: 2px;
+}
+
+.input-field2 {
+  height: 55px;
+  width: 280px;
+  padding: 5px;
+  margin: 18px 10px 10px 12px;
+  border: 1px solid #c0c0c0;
+  border-radius: 2px;
+}
