@@ -8,7 +8,7 @@ var homeworkStack = ['BIO12', 'HIS80', 'MAT122', 'PSY44'];
 // Only change code below this line
 
 // Removes the top element "PSY44"
-homeworkStack.pop();
+homeworkStack.pop();  // returns ['BIO12', 'HIS80', 'MAT122']
 
 // Adds a new top element "CS50"
-homeworkStack.push('CS50');
+homeworkStack.push('CS50');  // returns ['BIO12', 'HIS80', 'MAT122', 'CS50']
