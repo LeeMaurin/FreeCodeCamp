@@ -1,4 +1,7 @@
-// Finds the sum of all the multiples of 3 or 5 for a given number
+// Finds the sum of all the multiples of 3 or 5 for a given number.
+// This is a stand-alone JavaScript file. It can be run in node.js.
+// At the terminal prompt, type: node multiplesOf3And5.js. 
+// Note: you must be in the subdirectory where the JavaScript file is located.
 
 function multiplesOf3and5(number) {
   let sum_total = 0;
