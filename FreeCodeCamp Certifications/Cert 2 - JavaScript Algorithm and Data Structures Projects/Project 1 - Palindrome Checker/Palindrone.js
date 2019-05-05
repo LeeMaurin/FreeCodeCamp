@@ -1,8 +1,14 @@
 // Project 1: Palindrome Checker
 
-// Return true if the given string is a palindrome. Otherwise, return false.
+// Return true if the given string is a palindrome. Otherwise,
+// return false.
 
-// A palindrome is a word or sentence that's spelled the same way both forward and backward, ignoring punctuation, case, and spacing.
+// A palindrome is a word or sentence that's spelled the same 
+// way both forward and backward, ignoring punctuation, case, and spacing.
+
+// This is a stand-alone JavaScript file. It can be run in node.js. 
+// At the terminal prompt, type: node palindrone.js. 
+// Note: you must be in the subdirectory where the JavaScript file is located.
 
 function palindrome(str) {
   if (
