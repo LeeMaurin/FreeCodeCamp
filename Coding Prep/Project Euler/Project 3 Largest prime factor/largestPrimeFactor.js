@@ -1,6 +1,11 @@
 // This function generates the prime factors in a number.
 // The function returns the largest prime factor number.
 
+// This is a stand-alone JavaScript file. It can be run in node.js.
+// At the terminal prompt, type: node filename.js.
+// Note: you must be in the subdirectory where the JavaScript file is located.
+
+
 function largestPrimeFactor(number) {
   let prime = 2,
     max = 1;
