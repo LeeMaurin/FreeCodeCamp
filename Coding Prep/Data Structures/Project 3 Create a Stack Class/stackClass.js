@@ -6,6 +6,11 @@
 // an isEmpty method that checks if the stack is empty,
 // and a clear method that removes all elements from the stack.
 
+// This is a stand-alone JavaScript file. It can be run in node.js.
+// At the terminal prompt, type: node filename.js. 
+// Note: you must be in the subdirectory where the JavaScript file is located.
+
+
 function Stack() {
   var collection = [];
   this.print = function() {
