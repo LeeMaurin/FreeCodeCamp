@@ -1,4 +1,4 @@
-// This function generates the prime factors in a number.
+// This function generates the prime factors in a number..
 // The function returns the largest prime factor number.
 
 // This is a stand-alone JavaScript file. It can be run in node.js.
